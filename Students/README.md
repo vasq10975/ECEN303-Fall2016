@@ -17,6 +17,7 @@ Undergraduate Students
 * Ross Bodeker, [rossbodeker](https://github.com/rossbodeker)
 * Melanie Enriquez, [smilingmelanie](https://github.com/smilingmelanie)
 * Lorenzo Oviedo, [lto458](https://github.com/lto458)
+* Jacob Vasquez, [vasq10975](https://github.com/vasq10975)
 
 Faculty Members
 ---------------
